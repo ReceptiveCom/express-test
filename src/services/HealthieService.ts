@@ -1,4 +1,4 @@
-class GetHealthieData {
+class HealthieService {
   constructor() {}
   /**
    * Fetches user data from the Healthie API.
