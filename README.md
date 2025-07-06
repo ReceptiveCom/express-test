@@ -27,6 +27,12 @@ npm run dev
 docker compose up 
 ```
 
+copy the `.env.example` to `.env` and fill in the required environment variables.
+
+```bash
+cp .env.example .env
+```
+
 ## Development
 
 ### Running tests without docker
