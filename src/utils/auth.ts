@@ -22,3 +22,5 @@ function getUserId(jwt: string): string {
   }
   return '12345';
 }
+
+export { extractJwtFromHeader, isAuthenticated, getUserId };
